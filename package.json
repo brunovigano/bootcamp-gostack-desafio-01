@@ -1,0 +1,8 @@
+{
+  "name": "bootcamp-gostack-desafio-01",
+  "version": "1.0.0",
+  "description": "Desafio Rocketseat bootcamp NodeJs",
+  "main": "index.js",
+  "author": "Bruno Viganó",
+  "license": "MIT"
+}
